@@ -24,6 +24,8 @@
 -lmes - the related animal to a thing
 -pem - Material
 -saŋ
+njos - eat
+konjos - trail food; hardtack
 fjonjos - catch; receive
 flofjisi - pit; hole
 flos - valley
@@ -59,6 +61,8 @@ masemlefopo - Glacier
 masixel - warming season
 nelfjop - glass
 nemjexfop - sun
+mjemifop - breakfast; leftovers from last night
+mif - plate; disk
 pim - person; thing that is animate?
 pimasem - water person; your reflection; twin?
 pimfjisi - little person; child
@@ -79,6 +83,25 @@ xmasfjisi - pond
 ŋepamjex - eye?
 ŋos - to eat; to consume
 ŋosjex - teeth
+tolyk - fire
+tolykmyf - hot meal; cooked over fire
+tolyklømøs - lizard; drakes - tiny dragons
+
+matam - to cross; as in crossing a space
+
+smog - to be big; XXX
+
+gof - unknown; grammatical question word
+
+plopi - fish; onomonapea for a fish leaping out of the water.
+
+neposdjos - Sunny forest; open forest; "yard"
+
+dosdjos - Forest
+dos - Tree
+dosfjisi - Little tree; Stick/branch
+
+gjos - dog
 
 
 ideas:
@@ -88,3 +111,8 @@ ideas:
 - seasons
 - temperature
 - animal
+- autonym (rocks words speak mountains)
+
+- Trees
+- Sticks
+- Dog

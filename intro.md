@@ -35,11 +35,6 @@ Goals:
 
 Phonology
 
-|              | Bi-labial | Labio-dental | Alveolar | Velar |
-| Plosive      | p pj      |              | t tj     | k kj  |
-| Nasal        | m mj      |              | n nj     | ŋ     |
-| Fricatives   |           | f fj         | s sj     | x     |
-| Approximants |           | l/r          |          | j     |
 
 i y
 e ø

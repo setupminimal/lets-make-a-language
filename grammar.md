@@ -27,8 +27,6 @@ Work/non-work distinction?
 Thelonius <- language name?
 
 Tense:
-| past/present | rounded vowels   |
-| future       | unrounded vowels |
   
 Interrupted Aspects:
   - Static interrupted:   -ka
@@ -43,12 +41,13 @@ Uninterrupted Aspects:
 
 
 Mood/evidentiality system:
-- Saw it with own eyes
-- Somebody told me
+- Saw it with own eyes - -ŋem
+- Somebody told me - -ŋolan
 - Subjunctive - introduce hypotheticals
+- Interrogative - low tone near beginning of sentence
 - Conditional:
   - Prommisory - I will make it happen
   - Inferential - I expect it to happen based on something
-  - Imperitive/jussive - Do this so that this will happen
+  - Imperitive/jussive - Do this so that this will happen - -kon
 
 
