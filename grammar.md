@@ -26,6 +26,9 @@ Vowels distinguish roundedness.
 
 In some situations, vowels exhibit harmony by roundedness.
 
+TODO play with
+Possible stress rule: Second to last syllable, and then secondarily the first maximal syllable.
+
 ## Morphology
 
 Syllables have the following form: (T)DV(Q)
@@ -46,8 +49,10 @@ If two of the same consonant would touch (ignoring palatalization), they fuse.
 | Diminutive     | -fjisi        |
 | Augmentive     | -fopo         |
 | Common tool    | -jex          |
+| Customary verb | -tikja        |
 | Related animal | -lmes         |
 | Material       | -pem          |
+| '-ed'          | -jeŋ          |
 | Negative       | kje-          |
 | Made of        | ko-           |
 | Collection     | Reduplication |
@@ -115,9 +120,25 @@ pe + lep = pelep = pep
 fem + sja = femsja = fesja
 somsja = somtja
 
+Note: relative pronouns?
+
 ### Clauses
 
 Clauses are marked with a special marker on the verb and nouns participating in it. Nested clauses can double-up the markers. 
 
 ## Semantics, fields, and pragmatics
 
+Because of how clauses are handled, native speakers tend to prefer multiple sentences to large nested clauses.
+
+### Questions
+
+Questions get answered in one of a few ways:
+- A full sentence
+- A (few?) word that gets attached to the question to answer it
+
+For example:
+Can I throw sticks for the dog? Not-near-the-fire.
+
+### Poetry
+
+Traditional meter is dactylic hexameter. No rhyming.
