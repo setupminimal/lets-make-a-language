@@ -39,11 +39,16 @@ koløf - Rock
 koløfjysy - Pebble (little rock)
 koløfopo - Big rock; boulder; big exposed rock
 kolølmes - Turtle
+kolørme - Personal name; derived from turtle. Short form = kolo
 kosameta - lightning
 kɤsipja - to throw
 kɤsipjex - throwing tool; atlatl; bow?
 lapjam - to age; to let grow in a natural way; to cure
 lapjamjeŋ - aged; old; fully-grown
+
+ŋosjexajamjen - substitute word for discussing dragons without summoning them
+nosexajam - Personal name; derived from dragon. Short form = xajam
+
 lomes - animal
 lonen - sound; to hear
 lonenjex - ear
@@ -85,6 +90,7 @@ tolyktikja - to shine; to illuminate; to enlighten
 tolyktaŋ - light; warmth; shed-from-fire
 tolykmyf - hot meal; cooked over fire
 tolyklømøs - lizard; drakes - tiny dragons
+tolømøsfopo - dragon
 tolykløf - brick; fired rock
 
 metam - to join; to craft together
