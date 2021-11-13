@@ -26,7 +26,6 @@ Vowels distinguish roundedness.
 
 In some situations, vowels exhibit harmony by roundedness.
 
-TODO play with
 Possible stress rule: Second to last syllable, and then secondarily the first maximal syllable.
 
 ## Morphology
@@ -107,6 +106,8 @@ Nouns all take case marking, in the form of suffixes. If a noun performs multipl
 | Instrumental | -jex   |
 | Evidential   | -ŋolan |
 | Clausal      | -nøl   |
+
+-oŋ = plural
 
 Pronouns indicate case, person, and number. They take the normal case markings.
 

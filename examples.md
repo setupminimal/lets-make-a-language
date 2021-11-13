@@ -1,5 +1,9 @@
 # Examples
 
+Dogs: gjosgos = pack; gjosoŋ = plural dogs
+
+gjos mlækløŋøm <- praise dog for getting something right
+gjos mlaksønsatiŋem <- dog is ongoingly good
 
 
 
